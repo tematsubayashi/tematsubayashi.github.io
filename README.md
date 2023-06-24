@@ -1,1 +1,0 @@
-# tematsubayashi.github.io
