@@ -11,7 +11,7 @@ website:
       - japanese.qmd
 format:
   html:
-    theme: flatly
+    theme: morph
     css: styles.css
     toc: true
 editor: visual
