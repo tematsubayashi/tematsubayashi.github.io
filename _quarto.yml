@@ -1,7 +1,6 @@
 project:
   type: website
-    output-dir: docs
-
+  output-dir: docs
 website:
   title: "Tetsuya Matsubayashi"
   navbar:
@@ -11,12 +10,9 @@ website:
       - cv.qmd
       - japanese.qmd
       - classes.qmd
-
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
-
 editor: visual
-
