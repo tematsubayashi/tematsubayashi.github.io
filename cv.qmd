@@ -7,12 +7,12 @@ date: today
 
 -   Address: 1-31 Machikaneyama Toyonaka, Osaka, 560-0043 Japan
 -   Email: matsubayashi.osipp at osaka-u.ac.jp
--   Website: [sites.google.com/site/tetsuyamatsubayashi](https://sites.google.com/site/tetsuyamatsubayashi/)
+-   Website: [sites.google.com/site/tetsuyamatsubayashi](https://tematsubayashi.github.io/)
 
 ### Employment
 
--   2020--present Professor, Osaka School of International Public Policy, Osaka University
--   2013--2020 Associate Professor, Osaka School of International Public Policy, Osaka University
+-   2020--present Professor, Osaka School of International Public Policy, the University of Osaka
+-   2013--2020 Associate Professor, Osaka School of International Public Policy, the University of Osaka
 -   2007--2013 Assistant Professor in Political Science, University of North Texas (tenured, May 2013)
 
 ### Education
