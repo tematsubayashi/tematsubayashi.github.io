@@ -1,0 +1,22 @@
+---
+title: "Home"
+---
+
+::: {layout="[ [70,30] ]"}
+I am professor of Osaka School of International Public Policy ([OSIPP](http://www.osipp.osaka-u.ac.jp/ja/)) at Osaka University. My research is principally concerned with the functioning and consequences of the democratic process. A first line of research seeks to understand under what institutional contexts citizens are more likely to vote, when citizens are more supportive of expanding government's welfare policies, and what leads government officials to produce policies that meet the public's wish. A second line of research focuses on suicide as a measure of human well-being and explores the importance of politics to prevent suicide worldwide.
+
+![](matsubayashi.jpg){width="1.8in"}
+:::
+
+## News
+
+-   August 2023. 『何が投票率を高めるのか (What, if anything, can be done to increaes voter turnout) 』有斐閣
+-   July 2023.「女性議員が増えれば政治は変わるのか？」『世の中を知る，考える，変えていく -- 高校生からの社会科学講義』　飯田高、近藤絢子、砂原庸介、丸山里美編著.
+-   June 2023.「選挙制度改革と地方・都市の投票率差の縮小 (Consequences of Electoral Reform for Rural-Urban Differences in Voter Turnout) 」『年報政治学』
+-   Accepted. 「選挙の頻度と投票率 (The Frequency of Elections and Voter Turnout)」 『選挙研究』（千馬あさひとの共著）
+-   Accepted. 「若年層を対象としたフィールド実験による投票啓発の効果検証 (Examining the effect of a Get-Out-The-Vote campaign on youth turnout by a field experiment)」 『選挙研究』
+-   Under review. "The Light of Life: The Effects of Sunlight on Suicide" (coauthored with Shinsuke Tanaka)
+
+## For prospective students
+
+Please contact me via email if you are interested in studying here at OSIPP. Visit this website for more information. I encourage those who are interested in quantitative analysis of politics, economics, or public health to apply for our master's or doctoral program.

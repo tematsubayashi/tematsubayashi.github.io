@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Tetsuya Matsubayashi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - cv.qmd
+      - japanese.qmd
+      - classes.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
