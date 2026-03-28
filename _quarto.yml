@@ -9,7 +9,6 @@ website:
         text: Home
       - cv.qmd
       - japanese.qmd
-      - classes.qmd
 format:
   html:
     theme: flatly
