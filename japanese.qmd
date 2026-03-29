@@ -1,8 +1,7 @@
-```         
 ---
 title: "日本語ホーム"
 ---
-```
+
 
 ::: {layout="[ [70,30] ]"}
 大阪大学の大学院国際公共政策研究科 (Osaka School of International Public Policy, [OSIPP](http://www.osipp.osaka-u.ac.jp/ja/)) 教授の松林哲也です。政治学と公衆衛生学の研究者です。専門分野は 政治行動論、政治代表論、社会医学、自殺対策です。

@@ -38,7 +38,9 @@ date: today
 -   2005 Warren E. Miller Award to attend the 2005 ICPSR Summer Program.
 -   2005 The Pi Sigma Alpha Award for the best paper presented at the 2004 Annual Meeting of the Southwestern Political Science Association for "Size of Democracy and Support for the Political System."
 
-### Peer-reviewed Publications in Political Science and Economics
+### Peer-reviewed Publications
+
+**Politics**
 
 <ol reversed>
 
@@ -114,7 +116,7 @@ date: today
 
 </ol>
 
-### Peer-reviewed Publications in Public Health
+**Health**
 
 <ol reversed>
 
