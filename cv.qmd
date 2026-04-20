@@ -29,7 +29,7 @@ date: today
 
 ### Award
 
--   2023 The Best Paper Award for "Senkyo no Hindo to Tohyoritsu (The Frequency of Elections and Voter Turnout)," Japanese Association of Electoral Studies.
+-   2024 The Best Paper Award for "Senkyo no Hindo to Tohyoritsu (The Frequency of Elections and Voter Turnout)," Japanese Association of Electoral Studies.
 -   2019 Osaka University Prize.
 -   2019 JSPS (Japan Society for the Promotion of Science) Prize.
 -   2017 The Best Paper Award for "Tohyo Kankyo to Tohyo Ritsu (Polling Stations and Voter Turnout)," Japanese Association of Electoral Studies.
@@ -43,6 +43,8 @@ date: today
 **Politics**
 
 <ol reversed>
+
+<li>Tyler Romualdi, Tyler Girard, Mathieu Turgeon, Yannick Dufresne, Takeshi Iida, and Tetsuya Matsubayashi. 2025. "The Multidimensional Structure of Risk: How Dread and Controllability Shape Attitudes toward Artificial Intelligence." *Journal of Risk Research* 1--15.</li>
 
 <li>Asahi Senma and Tetsuya Matsubayashi. 2024. "Senkyo no Hindo to Tohyoritsu (The Frequency of Elections and Voter Turnout)." *Senkyo Kenkyu (Japanese Journal of Electoral Studies)*</li>
 
@@ -184,6 +186,8 @@ date: today
 
 <ol reversed>
 
+<li>Takeshi Iida, Tetsuya Matsubayashi, and Hanako Ohmura. 2025. *Seiji Kodoron (Shinpan) (Political Behavior, New Edition)*. Tokyo: Yuhikaku.</li>
+
 <li>Tetsuya Matsubayashi. 2023. *Nani ga Tohyoritsu wo Takameruka (What, if anything, can be done to increase voter turnout)*. Tokyo: Yuhikaku.</li>
 
 <li>Tetsuya Matsubayashi. 2021. *Seijigaku to Ingasuiron (Political Science and Causal Inference)*. Tokyo: Iwanami Shoten.</li>
@@ -200,7 +204,13 @@ date: today
 
 <ol reversed>
 
+<li>Tetsuya Matsubayashi. 2025. "Partisanship and Turnout in the 2024 General Election." 199--218.</li>
+
 <li>Tetsuya Matsubayashi. 2024. "Senkyo Kenkyu to Jyukaiki Bunseki (Regression Analysis in Electoral Studies)." *Senkyo Kenkyu (Japanese Journal of Electoral Studies)*.</li>
+
+<li>Miki Kohara, Tetsuya Matsubayashi, and Shinya Kajitani. 2024. "Jyugyoin no Kenkojotai to Rodoiyoku: Chushokigyo ni okeru Kenkokeiei no Igi (Employee Health and Work Motivation: The Significance of Health Management in SMEs)." *Nihon Rodo Kenkyu Zasshi (The Japanese Journal of Labour Studies)* (762).</li>
+
+<li>Tetsuya Matsubayashi. 2024. "Tohyoritsu Teika no Gen'in to Sono Shohousen (The Causes of Declining Voter Turnout and Their Remedies)." *Chuo Koron*.</li>
 
 <li>Tetsuya Matsubayashi. 2023. "Josei Giin ga Fuereba Seiji ha Kawarunoka (Does politics change if there are more women politicians?)." *Yononaka wo Shiru, Kangaeru, Kaeteiku* eds. by Takashi Iida, Ayako Kondo, Yosuke Sunahara, and Satomi Maruyama. Tokyo: Yuhikaku.</li>
 
@@ -228,7 +238,7 @@ date: today
 
 <ol reversed>
 
-<li>2023--2027. Japan Society for the Promotion of Science (Grant-in-Aid for Scientific Research (S)).</li>
+<li>2023--2028. Japan Society for the Promotion of Science (Grant-in-Aid for Scientific Research (S)).</li>
 
 <li>2022--2024. Japan Society for the Promotion of Science (Fund for the Promotion of Joint International Research (Fostering Joint International Research (A))).</li>
 
