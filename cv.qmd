@@ -188,7 +188,7 @@ date: today
 
 <ol reversed>
 
-<li>Tetsuya Matsubayashi. Nyumon Gendaiseijigaku (Introduction to Political Science) Tokyo: Chuo Koran Shinsha.</li>
+<li>Tetsuya Matsubayashi. *Nyumon Gendaiseijigaku (Introduction to Political Science).* Tokyo: Chuo Koran Shinsha.</li>
 
 <li>Takeshi Iida, Tetsuya Matsubayashi, and Hanako Ohmura. 2025. *Seiji Kodoron (Shinpan) (Political Behavior, New Edition)*. Tokyo: Yuhikaku.</li>
 
@@ -208,7 +208,7 @@ date: today
 
 <ol reversed>
 
-<li>Tetsuya Matsubayashi. 2025. "Partisanship and Turnout in the 2024 General Election." 199--218.</li>
+<li>Tetsuya Matsubayashi. 2025. "Partisanship and Turnout in the 2024 General Election." *Japan Decides 2024: The Japanese General Election*, eds by Kenneth M. McElwain, Robert J. Pekkanen, Daniel M. Smith.</li>
 
 <li>Tetsuya Matsubayashi. 2024. "Senkyo Kenkyu to Jyukaiki Bunseki (Regression Analysis in Electoral Studies)." *Senkyo Kenkyu (Japanese Journal of Electoral Studies)*.</li>
 
