@@ -7,7 +7,7 @@ date: today
 
 -   Address: 1-31 Machikaneyama Toyonaka, Osaka, 560-0043 Japan
 -   Email: matsubayashi.osipp at osaka-u.ac.jp
--   Website: [sites.google.com/site/tetsuyamatsubayashi](https://tematsubayashi.github.io/)
+-   Website: <https://tematsubayashi.github.io/>
 
 ### Employment
 
@@ -43,6 +43,8 @@ date: today
 **Politics**
 
 <ol reversed>
+
+<li>Tetsuya Matsubayashi and Sohei Shigemura. 2026. "Generational Replacement and Voter Turnout in Japan." Electoral Studies.</li>
 
 <li>Tyler Romualdi, Tyler Girard, Mathieu Turgeon, Yannick Dufresne, Takeshi Iida, and Tetsuya Matsubayashi. 2025. "The Multidimensional Structure of Risk: How Dread and Controllability Shape Attitudes toward Artificial Intelligence." *Journal of Risk Research* 1--15.</li>
 
@@ -185,6 +187,8 @@ date: today
 ### Books
 
 <ol reversed>
+
+<li>Tetsuya Matsubayashi. Nyumon Gendaiseijigaku (Introduction to Political Science) Tokyo: Chuo Koran Shinsha.</li>
 
 <li>Takeshi Iida, Tetsuya Matsubayashi, and Hanako Ohmura. 2025. *Seiji Kodoron (Shinpan) (Political Behavior, New Edition)*. Tokyo: Yuhikaku.</li>
 
